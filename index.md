@@ -1,1 +1,14 @@
+<h1>Hangry Fix<h1>
+<h2>Overview.</h2>
+<p>There are many restaurant review sites (i.e. Yelp), but students often crave a specific food item rather than a genre or restaurant.</p> 
+<p>Hangry Fix is a way for UHM students to publicize, rate, and search for specific food items. Ratings will revolve around food items rather than overall restaurant quality, service, etc.</p>
 
+<h2>The App</h2>
+<h4>Landing Page</h4>
+<p>The landing page displays recent food items and their ratings. It also contains the search bar for students to search up their particular food item.</p>
+<h4>Login Page</h4>
+<p>Students can create an account and login in order to add new food items and reviews.</p>
+<h4>User Page</h4>
+<p>Students can view their recent searches, reviews, etc.  They can also edit & delete previous reviews.</p>
+<h4>Admin Page</h4>
+<p>Admin would be able to see all posts and have the rights to delete anything they deem inappropriate.</p>
