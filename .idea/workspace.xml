@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="89dc8523-35ea-40f0-a6ea-45b37452a3fc" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/user_page_mockup.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/doc/user_page_mockup.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/search_page_mockup.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/index.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,19 +14,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="205">
-                <caret line="14" column="12" selection-start-line="14" selection-start-column="12" selection-end-line="14" selection-end-column="12" />
+              <first_editor relative-caret-position="511">
+                <caret line="22" column="100" lean-forward="true" selection-start-line="22" selection-start-column="100" selection-end-line="22" selection-end-column="100" />
               </first_editor>
               <second_editor />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/doc/user_page_mockup.jpg">
           <provider selected="true" editor-type-id="images" />
         </entry>
@@ -173,18 +173,18 @@
     <entry file="file://$PROJECT_DIR$/doc/user_page_mockup.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/doc/user_page_mockup.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="205">
-            <caret line="14" column="12" selection-start-line="14" selection-start-column="12" selection-end-line="14" selection-end-column="12" />
+          <first_editor relative-caret-position="511">
+            <caret line="22" column="100" lean-forward="true" selection-start-line="22" selection-start-column="100" selection-end-line="22" selection-end-column="100" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/doc/user_page_mockup.jpg">
-      <provider selected="true" editor-type-id="images" />
     </entry>
   </component>
   <component name="masterDetails">
