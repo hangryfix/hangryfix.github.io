@@ -1,7 +1,7 @@
 <h1>Hangry Fix</h1>
 <img style="width: 80%" src="doc/homepage.png">
 
-<p>(The app home page will be formatted similarly to the GrubHub site.)</p>
+<p>Our site will use the grubhub page as a starting point for our app.  We feel that this page has many of the charactistics that we are looking for, such as the clean design, icons for navigation, and large high quality pictures.</p>
 
 <h2>Overview</h2>
 <p>There are many restaurant review sites (i.e. Yelp), but students often crave a specific food item rather than a genre or restaurant.</p> 
