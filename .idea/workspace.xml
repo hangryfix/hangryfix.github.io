@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="89dc8523-35ea-40f0-a6ea-45b37452a3fc" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/Add Food Mockup.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/doc/Add Food Mockup.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/Edit Review Mockup.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/doc/Edit Review Mockup.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/index.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -18,27 +20,12 @@
         <entry file="file://$PROJECT_DIR$/index.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="153">
-                <caret line="25" column="25" selection-start-line="25" selection-start-column="25" selection-end-line="25" selection-end-column="25" />
+              <first_editor relative-caret-position="225">
+                <caret line="27" column="56" selection-start-line="27" selection-start-column="56" selection-end-line="27" selection-end-column="56" />
               </first_editor>
               <second_editor />
             </state>
           </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/doc/Add Review Mockup.jpg">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/doc/Add Food Mockup.jpg">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/doc/Edit Review Mockup.jpg">
-          <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -70,8 +57,8 @@
     <auto-save>true</auto-save>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-12" />
-    <option name="y" value="456" />
+    <option name="x" value="-66" />
+    <option name="y" value="150" />
     <option name="width" value="3663" />
     <option name="height" value="1566" />
   </component>
@@ -136,7 +123,7 @@
     </option>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-4" y="152" width="1221" height="522" extended-state="0" />
+    <frame x="-22" y="50" width="1221" height="522" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26453245" />
@@ -164,7 +151,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Added Images to the homepage" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added Images to the homepage" />
+    <MESSAGE value="Removed images that need rotation and resized image." />
+    <option name="LAST_COMMIT_MESSAGE" value="Removed images that need rotation and resized image." />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/.gitignore">
@@ -186,8 +174,8 @@
     <entry file="file://$PROJECT_DIR$/index.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="153">
-            <caret line="25" column="25" selection-start-line="25" selection-start-column="25" selection-end-line="25" selection-end-column="25" />
+          <first_editor relative-caret-position="225">
+            <caret line="27" column="56" selection-start-line="27" selection-start-column="56" selection-end-line="27" selection-end-column="56" />
           </first_editor>
           <second_editor />
         </state>
