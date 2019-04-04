@@ -19,9 +19,14 @@
 Vendors can add their stores with the hours they are open, and offer any special deals.
 </p>
 <h4>Add Food Page</h4>
+<img style="width: 80%" src="doc/Add Food Mockup.jpg">
 <p>All users with an account can add a new food item to the database.</p>
-<h4>Edit Food Page</h4>
-<p>Users can edit the information they posted on a food item, such as their input on locations, reviews, and costs.</p>
+<h4>Add Review Page</h4>
+<img style="width: 80%" src="doc/Add Review Mockup.jpg">
+<p>Users can add a review for a food item they have eaten before if it has already been added.</p>
+<h4>Edit Review Page</h4>
+<img style="width: 80%" src="doc/Edit Review Mockup.jpg">
+<p>Users can edit the reviews that they have posted for a food item.</p>
 <h4>Admin Page</h4>
 <p>Admin would be able to see all posts and have the rights to delete anything they deem inappropriate.</p>
 <h4>Food Pages</h4>
