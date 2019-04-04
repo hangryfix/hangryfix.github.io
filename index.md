@@ -1,5 +1,8 @@
-<h1>Hangry Fix<h1>
-<img src="doc/homepage.png">
+<h1>Hangry Fix</h1>
+<img style="width: 80%" src="doc/homepage.png">
+
+<p>(The app home page will be formatted similarly to the GrubHub site.)</p>
+
 <h2>Overview.</h2>
 <p>There are many restaurant review sites (i.e. Yelp), but students often crave a specific food item rather than a genre or restaurant.</p> 
 <p>Hangry Fix is a way for UHM students to publicize, rate, and search for specific food items. Ratings will revolve around food items rather than overall restaurant quality, service, etc.</p>
