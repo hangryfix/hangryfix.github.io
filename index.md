@@ -2,12 +2,10 @@
 <img style="width: 80%" src="doc/homepage.png">
 
 <p>Our site will use the grubhub page as a starting point for our app.  We feel that this page has many of the charactistics that we are looking for, such as the clean design, icons for navigation, and large high quality pictures.</p>
-
 <h2>Overview</h2>
 <p>There are many restaurant review sites (i.e. Yelp), but students often crave a specific food item rather than a genre or restaurant.</p> 
 <p>Hangry Fix is a way for UHM students to publicize, rate, and search for specific food items. Ratings will revolve around food items rather than overall restaurant quality, service, etc.</p>
 <p>Users can also allow email and SMS notifications on their account on new locations for selected foods.</p>
-
 <h2>The App</h2>
 <h4>Landing Page</h4>
 <p>The landing page will displays recent food items and their ratings, and it will also explain the purpose and mission of the site.  To prevent hangryness. Users can log in, register, and do a quick search of the foods or reviews.</p>
@@ -16,6 +14,8 @@
 <h4>User Page</h4>
 <p>Users have a personalized page that contains user specific data.  They can view their recent searches, foods that they have added to the database, as well as edit & delete previous reviews.  Students can select their favorite types of foods and can see suggestions for new reviews or foods that are connected to a category that they have favorited.
 </p>
+<h4>Search Page</h4>
+<p>The search page is one of the most important pages in the application.  From here, users can find foods that they like, or search for what restaurants are currently open.  They are able to sort their results in useful ways, such as by rating, by food type, or by restaurant.
 <h4>Add Food Page</h4>
 <img style="width: 60%" src="doc/Add Food Mockup.jpg">
 <p>All users with an account can add a new food item to the database.  The food is linked to a restaurant, so that when it is searched for, the open hours and address are easily accessable.</p>
