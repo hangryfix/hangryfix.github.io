@@ -3,7 +3,7 @@
 
 <p>(The app home page will be formatted similarly to the GrubHub site.)</p>
 
-<h2>Overview.</h2>
+<h2>Overview</h2>
 <p>There are many restaurant review sites (i.e. Yelp), but students often crave a specific food item rather than a genre or restaurant.</p> 
 <p>Hangry Fix is a way for UHM students to publicize, rate, and search for specific food items. Ratings will revolve around food items rather than overall restaurant quality, service, etc.</p>
 <p>Users can also allow email and SMS notifications on their account on new locations for selected foods.</p>
@@ -27,3 +27,7 @@ Vendors can add their stores with the hours they are open, and offer any special
 <h4>Food Pages</h4>
 <p>Individual pages for each food item added by users. Displays the information such as the locations, reviews, costs of the item.</p>
 
+<h2>The Authors</h2>
+<p>
+Christina Chen<br>James Hutchison<br>Katrina Johnson Turner
+</p>
