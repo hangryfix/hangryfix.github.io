@@ -12,9 +12,11 @@
 <h4>Login Page</h4>
 <p>Students can create an account and login in order to add new food items and reviews.</p>
 <h4>User Page</h4>
+<img style="width: 60%" src="doc/user_page_mockup.jpg">
 <p>Users have a personalized page that contains user specific data.  They can view their recent searches, foods that they have added to the database, as well as edit & delete previous reviews.  Students can select their favorite types of foods and can see suggestions for new reviews or foods that are connected to a category that they have favorited.
 </p>
 <h4>Search Page</h4>
+<img style="width: 60%" src="doc/search_page_mockup.jpg">
 <p>The search page is one of the most important pages in the application.  From here, users can find foods that they like, or search for what restaurants are currently open.  They are able to sort their results in useful ways, such as by rating, by food type, or by restaurant.
 <h4>Add Food Page</h4>
 <img style="width: 60%" src="doc/Add Food Mockup.jpg">
