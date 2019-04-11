@@ -91,16 +91,20 @@
 
 <h2 id="developmentHistory">Development History</h2>
 <h3 id="milestone1">Milestone 1: Mockup Development</h3>
-<p>This milestone started on April 5, 2019 and ended on April 11, 2019. The goal of Milestone 1 was to create pencil-and-paper mockups of the pages on hangryFIX. The landing page layout is based on Grubhub's, and a screenshot of their page was used as the mockup. 
+<p>This milestone started on April 5, 2019 and ended on April 11, 2019. The goal of Milestone 1 was to create pencil-and-paper mockups of the pages on hangryFIX. The landing page layout is based on Grubhub's, and a screenshot of their page was used as the mockup.<br>
 <img style="width: 30%" src="doc/landing_mockup.png">
 <img style="width: 30%" src="doc/Add Food Mockup.jpg">
 <img style="width: 30%" src="doc/Add Review Mockup.png">
 <img style="width: 30%" src="doc/Edit Review Mockup.png">
 <img style="width: 30%" src="doc/search_page_mockup.jpg">
-<img style="width: 30%" src="doc/user_page_mockup.jpg"> <br>
+<img style="width: 30%" src="doc/user_page_mockup.jpg"> 
+<br><br>
 Milestone 1 was implemented as hangryFIX GitHub Milestone M1:
+<br><br>
 <img style="width: 70%" src="doc/m1_issues.png">
+<br><br>
 Milestone 1 consisted of 16 issues, each of which were implemented in their own branches that were later merged into the master. Progress was managed via the hangryFIX GitHub Project M1:
+<br><br>
 <img style="width: 70%" src="doc/m1_project.png">
 </p>
 <a href="https://github.com/hangryfix/hangryfix/projects/1"><button>Go to M1 board</button></a>
