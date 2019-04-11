@@ -21,7 +21,7 @@
 
 <h2 id="overview">Overview</h2>
 <p>There are many restaurant review sites (i.e. Yelp), but students often crave a specific food item rather than a genre or restaurant.</p> 
-<p>Hangry Fix is a way for UHM students to publicize, rate, and search for specific food items. Ratings will revolve around food items rather than overall restaurant quality, service, etc.</p>
+<p>hangryFIX is a way for UHM students to publicize, rate, and search for specific food items. Ratings will revolve around food items rather than overall restaurant quality, service, etc.</p>
 <p>Users can also allow email and SMS notifications on their account on new locations for selected foods.</p>
 <div>
 <a href="http://hangryfix.meteorapp.com/#/"><button>Go to App</button></a>
@@ -33,7 +33,15 @@
 <hr>
 
 <h2 id="installation">Installation</h2>
-
+   1. [Meteor](https://www.meteor.com/install) will need to be installed in order to use this application.
+   2. Download a copy of [hangryFIX](https://github.com/hangryfix/hangryfix).
+   3. Install the required libraries with `meteor npm install` into the **app** directory of the downloaded digits folder through the command prompt.
+   4. Run the application with `meteor npm run start`.<br>
+   Note: on the first run of digits, the default users shown below will be created.
+   <img src="doc/default_users.png">
+   5. The application will then be viewable and usable at http://localhost:3000/.
+   6. You can also run ESLint for the files in the **imports** directory with `meteor npm run lint`.
+   
 <hr>
 
 <h2 id="theApp">The App</h2>
@@ -82,9 +90,9 @@
 <hr>
 
 <h2 id="developmentHistory">Development History</h2>
-<h3 id="milestone1">Milestone 1: Mockup Development
-<h3 id="milestone2">Milestone 2: Functionality
-<h3 id="milestone3">Milestone 3: Improved Functionality
+<h3 id="milestone1">Milestone 1: Mockup Development</h3>
+<h3 id="milestone2">Milestone 2: Functionality</h3>
+<h3 id="milestone3">Milestone 3: Improved Functionality</h3>
 
 <hr>
 
