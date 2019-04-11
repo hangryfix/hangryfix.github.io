@@ -45,7 +45,7 @@
 <h3>Admin Page</h3>
 <img style="width: 70%" src="doc/hf-admin.png">
 <p>Admin would be able to see all posts and have the rights to delete anything they deem inappropriate.</p>
-<button color="#5BBB5B" href="http://hangryfix.meteorapp.com/#/admin">Go to page</button>
+<a href="http://hangryfix.meteorapp.com/#/admin"><button>Go to page</button></a>
 <br>
 
 <h2>The Authors</h2>
