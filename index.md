@@ -1,7 +1,7 @@
 <h2>Table of Contents</h2>
 - <a href="#overview">Overview</a>
 - <a href="#installation">Installation</a>
-- <a href="#theAppe">The App</a>
+- <a href="#theApp">The App</a>
   - <a href="#landingPage">Landing Page</a>
   - <a href="#signUpPage">Sign Up Page</a>
   - <a href="#userHomePage">User Home Page</a>
@@ -32,7 +32,7 @@
 
 <h2 id="theApp">The App</h2>
 
-<h3>Landing Page</h3>
+<h3 id="landingPage">Landing Page</h3>
 <p>The landing page will displays recent food items and their ratings, and it will also explain the purpose and mission of the site.  To prevent hangryness. Users can log in, register, and do a quick search of the foods or reviews.</p>
 <a href="http://hangryfix.meteorapp.com/#/"><button>Go to page</button></a>
 <br>
