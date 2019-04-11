@@ -27,8 +27,8 @@
 <a href="http://hangryfix.meteorapp.com/#/"><button>Go to App</button></a>
 <a href="https://github.com/hangryfix/hangryfix/projects"><button>Go to Project Board</button></a>
 <a href="https://github.com/hangryfix/hangryfix"><button>Go to Source Code</button></a>
-<br>
 </div>
+<br>
 
 <hr>
 
