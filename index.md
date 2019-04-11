@@ -20,8 +20,8 @@
 <a href="http://hangryfix.meteorapp.com/#/signup"><button>Go to page</button></a>
 <br>
 
-<h3>User HomePage</h3>
-<img style="width: 70%" src="doc/user_page_mockup.jpg">
+<h3>User Home Page</h3>
+<img style="width: 70%" src="doc/hf-homepage.png">
 <p>Users have a personalized page that contains user specific data.  They can view their recent searches, foods that they have added to the database, as well as edit & delete previous reviews.  Students can select their favorite types of foods and can see suggestions for new reviews or foods that are connected to a category that they have favorited.
 </p>
 <a href="http://hangryfix.meteorapp.com/#/yourfoods"><button>Go to page</button></a>
