@@ -81,7 +81,6 @@
 <hr>
 
 <h2 id="developmentHistory">Development History</h2>
-<h3><a href="https://github.com/hangryfix/hangryfix/projects">Go to Project Board</a></h3>
 <h3 id="milestone1">Milestone 1: Mockup Development
 <h3 id="milestone2">Milestone 2: Functionality
 <h3 id="milestone3">Milestone 3: Improved Functionality
