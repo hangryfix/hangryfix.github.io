@@ -1,4 +1,3 @@
-<h1>Hangry Fix</h1>
 <img style="width: 80%" src="doc/homepage.png">
 
 <p>Our site will use the grubhub page as a starting point for our app.  We feel that this page has many of the charactistics that we are looking for, such as the clean design, icons for navigation, and large high quality pictures.</p>
