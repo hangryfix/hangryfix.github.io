@@ -160,7 +160,9 @@
     <MESSAGE value="Removed images that need rotation and resized image." />
     <MESSAGE value="Added cropped images to the homepage" />
     <MESSAGE value="Fixed typo" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fixed typo" />
+    <MESSAGE value="Updated text on the homepage" />
+    <MESSAGE value="Added more text" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added more text" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/.gitignore">
