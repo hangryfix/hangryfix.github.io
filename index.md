@@ -1,35 +1,89 @@
-<h1>Hangry Fix</h1>
-<img style="width: 80%" src="doc/homepage.png">
+<h2>Table of Contents</h2>
+- <a href="#overview">Overview</a>
+- <a href="#installation">Installation</a>
+- <a href="#theApp">The App</a>
+  - <a href="#landingPage">Landing Page</a>
+  - <a href="#signUpPage">Sign Up Page</a>
+  - <a href="#userHomePage">User Home Page</a>
+  - <a href="#searchPage">Search Page</a>
+  - <a href="#addFoodPage">Add Food Page</a>
+  - <a href="#addingEditingReviews">Adding/Editing Reviews</a>
+- <a href="#developmentHistory">Development History</a>
+  - <a href="#milestone1">Milestone 1: Mockup development</a>
+  - <a href="#milestone2">Milestone 2: Functionality</a>
+  - <a href="#milestone3">Milestone 3: Improved functionality</a> 
+- <a href="#theAuthors">The Authors</a>
 
-<p>Our site will use the grubhub page as a starting point for our app.  We feel that this page has many of the charactistics that we are looking for, such as the clean design, icons for navigation, and large high quality pictures.</p>
-<h2>Overview</h2>
+
+<hr>
+
+<img style="width: 80%" src="doc/hf-landing.png">
+
+<h2 id="overview">Overview</h2>
 <p>There are many restaurant review sites (i.e. Yelp), but students often crave a specific food item rather than a genre or restaurant.</p> 
 <p>Hangry Fix is a way for UHM students to publicize, rate, and search for specific food items. Ratings will revolve around food items rather than overall restaurant quality, service, etc.</p>
 <p>Users can also allow email and SMS notifications on their account on new locations for selected foods.</p>
-<h2>The App</h2>
-<h4>Landing Page</h4>
+
+<hr>
+
+<h2 id="installation">Installation</h2>
+
+<hr>
+
+<h2 id="theApp">The App</h2>
+
+<h3 id="landingPage">Landing Page</h3>
 <p>The landing page will displays recent food items and their ratings, and it will also explain the purpose and mission of the site.  To prevent hangryness. Users can log in, register, and do a quick search of the foods or reviews.</p>
-<h4>Login Page</h4>
-<p>Students can create an account and login in order to add new food items and reviews.</p>
-<h4>User Page</h4>
-<img style="width: 60%" src="doc/user_page_mockup.jpg">
+<a href="http://hangryfix.meteorapp.com/#/"><button>Go to page</button></a>
+<br>
+
+<h3 id="signUpPage">Sign Up Page</h3>
+<img style="width: 70%" src="doc/hf-register.png">
+<p>Before users can add foods or leave reviews, they must create an account.  They can add tags associated with their favorite foods.</p>
+<a href="http://hangryfix.meteorapp.com/#/signup"><button>Go to page</button></a>
+<br>
+
+<h3 id="userHomePage">User Home Page</h3>
+<img style="width: 70%" src="doc/hf-homepage.png">
 <p>Users have a personalized page that contains user specific data.  They can view their recent searches, foods that they have added to the database, as well as edit & delete previous reviews.  Students can select their favorite types of foods and can see suggestions for new reviews or foods that are connected to a category that they have favorited.
 </p>
-<h4>Search Page</h4>
-<img style="width: 60%" src="doc/search_page_mockup.jpg">
-<p>The search page is one of the most important pages in the application.  From here, users can find foods that they like, or search for what restaurants are currently open.  They are able to sort their results in useful ways, such as by rating, by food type, or by restaurant.
-<h4>Add Food Page</h4>
-<img style="width: 60%" src="doc/Add Food Mockup.jpg">
+<a href="http://hangryfix.meteorapp.com/#/yourAccount"><button>Go to page</button></a>
+<br>
+
+<h3 id="searchPage">Search Page</h3>
+<img style="width: 70%" src="doc/hf-search.png">
+<p>The search page is one of the most important pages in the application.  From here, users can find foods that they like, or search for what restaurants are currently open.  They are able to sort their results in useful ways, such as by rating, by food type, or by restaurant.</p>
+<a href="http://hangryfix.meteorapp.com/#/search"><button>Go to page</button></a>
+<br>
+
+<h3 id="addFoodPage">Add Food Page</h3>
+<img style="width: 70%" src="doc/hf-add-food.png">
 <p>All users with an account can add a new food item to the database.  The food is linked to a restaurant, so that when it is searched for, the open hours and address are easily accessable.</p>
-<h4>Add Review Page</h4>
-<img style="width: 60%" src="doc/Add Review Mockup.png">
-<p>Users can add a review for a food item they have eaten before if that has already been added to the database. (Otherwise they need to first add the food)</p>
-<h4>Edit Review Page</h4>
-<img style="width: 60%" src="doc/Edit Review Mockup.png">
-<p>Users can edit the reviews that they have posted for a food item.</p>
-<h4>Admin Page</h4>
+<a href="http://hangryfix.meteorapp.com/#/addFood"><button>Go to page</button></a>
+<br>
+
+<h3 id="addingEditingReviews">Adding/Editing Reviews</h3>
+<p>Users can add a review for a food item they have eaten before if that has already been added to the database. (Otherwise they need to first add the food).  They can also go back and edit that review at anytime.</p>
+<a href="http://hangryfix.meteorapp.com/#/addReview"><button>Go to page</button></a>
+
+<h3 id="adminPage">Admin Page</h3>
+<img style="width: 70%" src="doc/hf-admin.png">
 <p>Admin would be able to see all posts and have the rights to delete anything they deem inappropriate.</p>
-<h2>The Authors</h2>
+<a href="http://hangryfix.meteorapp.com/#/admin"><button>Go to page</button></a>
+<br>
+
+<hr>
+
+<h2 id="developmentHistory">Development History</h2>
+<h3><a href="https://github.com/hangryfix/hangryfix/projects">Go to Project Board</a></h3>
+<h3 id="milestone1">Milestone 1: Mockup Development
+<h3 id="milestone2">Milestone 2: Functionality
+<h3 id="milestone3">Milestone 3: Improved Functionality
+
+<hr>
+
+<h2 id="theAuthors">The Authors</h2>
 <p>
 Christina Chen<br>James Hutchison<br>Katrina Johnson Turner
 </p>
+
