@@ -52,4 +52,4 @@
 <p>
 Christina Chen<br>James Hutchison<br>Katrina Johnson Turner
 </p>
-<button href="https://github.com/hangryfix/hangryfix/projects">Go to Project Board</button>
+<a href="https://github.com/hangryfix/hangryfix/projects">Go to Project Board</a>
