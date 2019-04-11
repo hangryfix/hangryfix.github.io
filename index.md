@@ -5,11 +5,15 @@
 <p>Hangry Fix is a way for UHM students to publicize, rate, and search for specific food items. Ratings will revolve around food items rather than overall restaurant quality, service, etc.</p>
 <p>Users can also allow email and SMS notifications on their account on new locations for selected foods.</p>
 
+<hr>
+
 <h2>The App</h2>
 
 <h3>Landing Page</h3>
 <p>The landing page will displays recent food items and their ratings, and it will also explain the purpose and mission of the site.  To prevent hangryness. Users can log in, register, and do a quick search of the foods or reviews.</p>
-<a href="http://hangryfix.meteorapp.com/#/">Go to page --></a>
+<button href="http://hangryfix.meteorapp.com/#/">Go to page --></button>
+
+<hr color="#5BBB5B">
 
 <h3>Sign Up Page</h3>
 <img style="width: 70%" src="doc/hf-register.png">
