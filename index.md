@@ -38,7 +38,7 @@
    3. Install the required libraries with `meteor npm install` into the **app** directory of the downloaded digits folder through the command prompt.
    4. Run the application with `meteor npm run start`.<br>
    Note: on the first run of hangryFIX, default data, such as users and foods, will be created.
-   5. The application will then be viewable and usable at http://localhost:3000/.
+   5. The application will then be viewable and usable at [http://localhost:3000/](http://localhost:3000/).
    6. You can also run ESLint for the files in the **imports** directory with `meteor npm run lint`.
    
 <hr>
