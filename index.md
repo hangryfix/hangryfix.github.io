@@ -17,7 +17,6 @@
 
 <hr>
 
-<img style="width: 80%" src="doc/hf-landing.png">
 
 <h2 id="overview">Overview</h2>
 <p>There are many restaurant review sites (i.e. Yelp), but students often crave a specific food item rather than a genre or restaurant.</p> 
@@ -29,23 +28,13 @@
 <a href="https://github.com/hangryfix/hangryfix"><button>Go to Source Code</button></a>
 </div>
 <br>
-
-<hr>
-
-<h2 id="installation">Installation</h2>
-   1. [Meteor](https://www.meteor.com/install) will need to be installed in order to use this application.
-   2. Download a copy of [hangryFIX](https://github.com/hangryfix/hangryfix).
-   3. Install the required libraries with `meteor npm install` into the **app** directory of the downloaded digits folder through the command prompt.
-   4. Run the application with `meteor npm run start`.<br>
-   Note: on the first run of hangryFIX, default data, such as users and foods, will be created.
-   5. The application will then be viewable and usable at [http://localhost:3000/](http://localhost:3000/).
-   6. You can also run ESLint for the files in the **imports** directory with `meteor npm run lint`.
    
 <hr>
 
-<h2 id="theApp">The App</h2>
+<h2 id="theApp">User Guide</h2>
 
 <h3 id="landingPage">Landing Page</h3>
+<img style="width: 80%" src="doc/hf-landing.png">
 <p>The landing page will displays recent food items and their ratings, and it will also explain the purpose and mission of the site.  To prevent hangryness. Users can log in, register, and do a quick search of the foods or reviews.</p>
 <a href="http://hangryfix.meteorapp.com/#/"><button>Go to page</button></a>
 <br>
@@ -85,6 +74,17 @@
 <p>Admin would be able to see all posts and have the rights to delete anything they deem inappropriate.</p>
 <a href="http://hangryfix.meteorapp.com/#/admin"><button>Go to page</button></a>
 <br>
+
+<hr>
+
+<h2 id="installation">Installation</h2>
+   1. [Meteor](https://www.meteor.com/install) will need to be installed in order to use this application.
+   2. Download a copy of [hangryFIX](https://github.com/hangryfix/hangryfix).
+   3. Install the required libraries with `meteor npm install` into the **app** directory of the downloaded digits folder through the command prompt.
+   4. Run the application with `meteor npm run start`.<br>
+   Note: on the first run of hangryFIX, default data, such as users and foods, will be created.
+   5. The application will then be viewable and usable at [http://localhost:3000/](http://localhost:3000/).
+   6. You can also run ESLint for the files in the **imports** directory with `meteor npm run lint`.
 
 <hr>
 
