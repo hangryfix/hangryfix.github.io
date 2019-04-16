@@ -1,6 +1,5 @@
 <h2>Table of Contents</h2>
 - <a href="#overview">Overview</a>
-- <a href="#installation">Installation</a>
 - <a href="#theApp">The App</a>
   - <a href="#landingPage">Landing Page</a>
   - <a href="#signUpPage">Sign Up Page</a>
@@ -8,6 +7,7 @@
   - <a href="#searchPage">Search Page</a>
   - <a href="#addFoodPage">Add Food Page</a>
   - <a href="#addingEditingReviews">Adding/Editing Reviews</a>
+- <a href="#installation">Installation</a>
 - <a href="#developmentHistory">Development History</a>
   - <a href="#milestone1">Milestone 1: Mockup development</a>
   - <a href="#milestone2">Milestone 2: Functionality</a>
