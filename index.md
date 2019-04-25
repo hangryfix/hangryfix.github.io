@@ -39,28 +39,28 @@
 <a href="http://hangryfix.meteorapp.com/#/"><button>Go to page</button></a>
 <br>
 
-<h3 id="signUpPage">Sign Up Page</h3>
+<h3 id="signUpPage">Register Page</h3>
 <img style="width: 70%" src="doc/hf-register.png">
 <p>Before users can add foods or leave reviews, they must create an account.  They can add tags associated with their favorite foods.</p>
 <a href="http://hangryfix.meteorapp.com/#/signup"><button>Go to page</button></a>
 <br>
 
-<h3 id="userHomePage">User Home Page</h3>
+<h3 id="userHomePage">Your Account Page</h3>
 <img style="width: 70%" src="doc/hf-homepage.png">
-<p>Users have a personalized page that contains user specific data.  They can view their recent searches, foods that they have added to the database, as well as edit & delete previous reviews.  Students can select their favorite types of foods and can see suggestions for new reviews or foods that are connected to a category that they have favorited.
+<p>Users have a personalized page that contains their foods marked by tags they favorited and foods that have been recently added to the app. Users have a personalized page that contains user specific data.
 </p>
 <a href="http://hangryfix.meteorapp.com/#/yourAccount"><button>Go to page</button></a>
 <br>
 
 <h3 id="searchPage">Search Page</h3>
 <img style="width: 70%" src="doc/hf-search.png">
-<p>The search page is one of the most important pages in the application.  From here, users can find foods that they like, or search for what restaurants are currently open.  They are able to sort their results in useful ways, such as by rating, by food type, or by restaurant.</p>
+<p>The search page is one of the most important pages in the application.  From here, users can find foods that have been added to the app based on their food categories. </p>
 <a href="http://hangryfix.meteorapp.com/#/search"><button>Go to page</button></a>
 <br>
 
 <h3 id="addFoodPage">Add Food Page</h3>
 <img style="width: 70%" src="doc/hf-add-food.png">
-<p>All users with an account can add a new food item to the database.  The food is linked to a restaurant, so that when it is searched for, the open hours and address are easily accessable.</p>
+<p>All users with an account can add a new food item to the database. Available information the user can add about that food is name, image by URL, restaurant and its hours, the magnitude of its price, and a brief description.</p>
 <a href="http://hangryfix.meteorapp.com/#/addFood"><button>Go to page</button></a>
 <br>
 
@@ -77,7 +77,7 @@
 
 <hr>
 
-<h2 id="installation">Installation</h2>
+<h2 id="installation">Developer Guide</h2>
    1. [Meteor](https://www.meteor.com/install) will need to be installed in order to use this application.
    2. Download a copy of [hangryFIX](https://github.com/hangryfix/hangryfix).
    3. Install the required libraries with `meteor npm install` into the **app** directory of the downloaded digits folder through the command prompt.
@@ -89,6 +89,7 @@
 <hr>
 
 <h2 id="developmentHistory">Development History</h2>
+
 <h3 id="milestone1">Milestone 1: Mockup Development</h3>
 <p>This milestone started on April 5, 2019 and ended on April 11, 2019. The goal of Milestone 1 was to create pencil-and-paper mockups of the pages on hangryFIX. The landing page layout is based on Grubhub's, and a screenshot of their page was used as the mockup.<br>
 <img style="width: 30%" src="doc/landing_mockup.png">
@@ -107,9 +108,36 @@ Milestone 1 consisted of 16 issues, each of which were implemented in their own 
 <img style="width: 70%" src="doc/m1_project.png">
 </p>
 <a href="https://github.com/hangryfix/hangryfix/projects/1"><button>Go to M1 board</button></a>
+
 <h3 id="milestone2">Milestone 2: Functionality</h3>
+<p>This milestone started on April 18, 2019 and ended on April 25, 2019. The goal of Milestone 2 was to add the first sets of functionality to the pages and components. The major additions are the ability to add and edit reviews and to add foods.<br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Milestone 2 was implemented as hangryFIX GitHub Milestone M2:
+<br><br>
+<img style="width: 70%" src="doc/m2_issues.png">
+<br><br>
+Milestone 2 consisted of 13 issues, each of which were implemented in their own branches that were later merged into the master. Progress was managed via the hangryFIX GitHub Project M2:
+<br><br>
+<img style="width: 70%" src="doc/m2_project.png">
+</p>
 <a href="https://github.com/hangryfix/hangryfix/projects/2"><button>Go to M2 board</button></a>
+
 <h3 id="milestone3">Milestone 3: Improved Functionality</h3>
+<a href="https://github.com/hangryfix/hangryfix/projects/4"><button>Go to M3 board</button></a>
 
 <hr>
 
