@@ -65,8 +65,8 @@
 <br>
 
 <h3 id="addingEditingReviews">Adding/Editing Reviews</h3>
-<img style="width: 70%" src="doc/edit_review.png">
-<img style="width: 70%" src="doc/reviews.png">
+<img style="width: 70%" src="doc/hf_edit_review.png">
+<img style="width: 70%" src="doc/hf_reviews.png">
 <p>Users can add a review for a food item they have eaten before if that has already been added to the database. (Otherwise they need to first add the food).  They can also go back and edit that review at anytime.</p>
 <a href="http://hangryfix.meteorapp.com/#/addReview"><button>Go to page</button></a>
 
