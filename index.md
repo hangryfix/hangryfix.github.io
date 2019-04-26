@@ -34,43 +34,44 @@
 <h2 id="theApp">User Guide</h2>
 
 <h3 id="landingPage">Landing Page</h3>
-<img style="width: 80%" src="doc/hf-landing.png">
+<img style="width: 80%" src="">
 <p>The landing page will displays recent food items and their ratings, and it will also explain the purpose and mission of the site.  To prevent hangryness. Users can log in, register, and do a quick search of the foods or reviews.</p>
 <a href="http://hangryfix.meteorapp.com/#/"><button>Go to page</button></a>
 <br>
 
 <h3 id="signUpPage">Register Page</h3>
-<img style="width: 70%" src="doc/hf-register.png">
+<img style="width: 70%" src="doc/hf_register.png">
 <p>Before users can add foods or leave reviews, they must create an account.  They can add tags associated with their favorite foods.</p>
 <a href="http://hangryfix.meteorapp.com/#/signup"><button>Go to page</button></a>
 <br>
 
 <h3 id="userHomePage">Your Account Page</h3>
-<img style="width: 70%" src="doc/hf-homepage.png">
+<img style="width: 70%" src="doc/hf_your_account.png">
 <p>Users have a personalized page that contains their foods marked by tags they favorited and foods that have been recently added to the app. Users have a personalized page that contains user specific data.
 </p>
 <a href="http://hangryfix.meteorapp.com/#/yourAccount"><button>Go to page</button></a>
 <br>
 
 <h3 id="searchPage">Search Page</h3>
-<img style="width: 70%" src="doc/hf-search.png">
+<img style="width: 70%" src="doc/hf_search.png">
 <p>The search page is one of the most important pages in the application.  From here, users can find foods that have been added to the app based on their food categories. </p>
 <a href="http://hangryfix.meteorapp.com/#/search"><button>Go to page</button></a>
 <br>
 
 <h3 id="addFoodPage">Add Food Page</h3>
-<img style="width: 70%" src="doc/hf-add-food.png">
-<p>All users with an account can add a new food item to the database. Available information the user can add about that food is name, image by URL, restaurant and its hours, the magnitude of its price, and a brief description.</p>
+<img style="width: 70%" src="doc/hf_add_food.png">
+<p>All users with an account can add a new food item to the database. Available information the user can add about that food is name, image by URL, restaurant and its hours, the magnitude of its price, and a brief description. Users can also add new restaurants if they aren't available.</p>
 <a href="http://hangryfix.meteorapp.com/#/addFood"><button>Go to page</button></a>
 <br>
 
 <h3 id="addingEditingReviews">Adding/Editing Reviews</h3>
-<img style="width: 70%" src="doc/addReview.PNG">
+<img style="width: 70%" src="doc/edit_review.png">
+<img style="width: 70%" src="doc/reviews.png">
 <p>Users can add a review for a food item they have eaten before if that has already been added to the database. (Otherwise they need to first add the food).  They can also go back and edit that review at anytime.</p>
 <a href="http://hangryfix.meteorapp.com/#/addReview"><button>Go to page</button></a>
 
 <h3 id="adminPage">Admin Page</h3>
-<img style="width: 70%" src="doc/hf-admin.png">
+<img style="width: 70%" src="doc/hf_admin.png">
 <p>Admin would be able to see all posts and have the rights to delete anything they deem inappropriate.</p>
 <a href="http://hangryfix.meteorapp.com/#/admin"><button>Go to page</button></a>
 <br>
@@ -111,7 +112,7 @@ Milestone 1 consisted of 16 issues, each of which were implemented in their own 
 
 <h3 id="milestone2">Milestone 2: Functionality</h3>
 <p>This milestone started on April 18, 2019 and ended on April 25, 2019. The goal of Milestone 2 was to add the first sets of functionality to the pages and components. The major additions are the ability to add and edit reviews and to add foods.<br>
-
+<img style="width: 30%" src="doc/
 
 
 
