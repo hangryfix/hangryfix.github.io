@@ -20,6 +20,7 @@
 
 
 <h2 id="overview">Overview</h2>
+<img style="width: 80%" src="doc/hf-landing2.png">
 <p>There are many restaurant review sites (i.e. Yelp), but students often crave a specific food item rather than a genre or restaurant.</p> 
 <p>hangryFIX is a way for UHM students to publicize, rate, and search for specific food items. Ratings will revolve around food items rather than overall restaurant quality, service, etc.</p>
 <p>Users can also allow email and SMS notifications on their account on new locations for selected foods.</p>
@@ -35,7 +36,7 @@
 <h2 id="theApp">User Guide</h2>
 
 <h3 id="landingPage">Landing Page</h3>
-<img style="width: 80%" src="">
+<img style="width: 80%" src="doc/hf-landing.png">
 <p>The landing page will displays recent food items and their ratings, and it will also explain the purpose and mission of the site.  To prevent hangryness. Users can log in, register, and do a quick search of the foods or reviews.</p>
 <a href="http://hangryfix.meteorapp.com/#/"><button>Go to page</button></a>
 <br>
