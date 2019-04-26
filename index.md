@@ -2,12 +2,13 @@
 - <a href="#overview">Overview</a>
 - <a href="#theApp">The App</a>
   - <a href="#landingPage">Landing Page</a>
-  - <a href="#signUpPage">Sign Up Page</a>
-  - <a href="#userHomePage">User Home Page</a>
+  - <a href="#signinPage">Signin Page</a>
+  - <a href="#signUpPage">Register Page</a>
+  - <a href="#userHomePage">Your Account Page</a>
   - <a href="#searchPage">Search Page</a>
   - <a href="#addFoodPage">Add Food Page</a>
   - <a href="#addingEditingReviews">Adding/Editing Reviews</a>
-- <a href="#installation">Installation</a>
+- <a href="#installation">Developer Guide</a>
 - <a href="#developmentHistory">Development History</a>
   - <a href="#milestone1">Milestone 1: Mockup development</a>
   - <a href="#milestone2">Milestone 2: Functionality</a>
@@ -40,7 +41,7 @@
 <br>
 
 <h3 id="signinPage">Signin Page</h3>
-<img style="width: 80%" src="hf_signin.png">
+<img style="width: 70%" src="doc/hf_signin.png">
 <p>Users will need just their email address and password to sign in to their accounts.</p>
 <a href="http://hangryfix.meteorapp.com/#/signin"><button>Go to page</button></a>
 <br>
