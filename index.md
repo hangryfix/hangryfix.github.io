@@ -152,6 +152,10 @@ Milestone 2 consisted of 13 issues, each of which were implemented in their own 
 
 <h2 id="theAuthors">The Authors</h2>
 <p>
-Christina Chen<br>James Hutchison<br>Katrina Johnson Turner
+<a href="https://christina-chen-cco2.githun.io">Christina Chen</a>
+<br>
+<a href="https://jhutch42.github.io">James Hutchison</a>
+<br>
+<a href="https://katrinaturner.github.io">Katrina Johnson Turner</a>
 </p>
 
