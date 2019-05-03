@@ -80,7 +80,7 @@
 
 <h3 id="adminPage">Admin Page</h3>
 <img style="width: 70%" src="doc/hf_admin.png">
-<p>Admin would be able to see all posts and have the rights to delete anything they deem inappropriate.</p>
+<p>Users with Admin rights are able to view all foods and users.  They can delete any foods they deem inappropriate and track what reviews and foods are being added by which users.</p>
 <a href="http://hangryfix.meteorapp.com/#/admin"><button>Go to page</button></a>
 <br>
 
@@ -147,6 +147,12 @@ Milestone 2 consisted of 13 issues, each of which were implemented in their own 
 
 <h3 id="milestone3">Milestone 3: Improved Functionality</h3>
 <a href="https://github.com/hangryfix/hangryfix/projects/4"><button>Go to M3 board</button></a>
+
+<hr>
+
+<h2 id="developmentHistory">Community Feedback</h2>
+We tested our app with 5 members of the UH community and here are there responses to some of the questions:
+
 
 <hr>
 
