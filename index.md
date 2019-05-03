@@ -37,7 +37,7 @@
 
 <h3 id="landingPage">Landing Page</h3>
 <img style="width: 80%" src="doc/hf-landing.png">
-<p>The landing page will displays recent food items and their ratings, and it will also explain the purpose and mission of the site.  To prevent hangryness. Users can log in, register, and do a quick search of the foods or reviews.</p>
+<p>The landing page will displays recent food items and their ratings, and it will also explain the purpose and mission of the site.  To prevent hangryness. From here, users can use the Nav Bar to log in, register, and do a quick search of the foods by category.</p>
 <a href="http://hangryfix.meteorapp.com/#/"><button>Go to page</button></a>
 <br>
 
@@ -49,7 +49,7 @@
 
 <h3 id="signUpPage">Register Page</h3>
 <img style="width: 70%" src="doc/hf_register.png">
-<p>Before users can add foods or leave reviews, they must create an account.  They can add tags associated with their favorite foods.</p>
+<p>Before users can add foods or leave reviews, they must create an account.  They can add tags associated with their favorite foods to help customize their account page.</p>
 <a href="http://hangryfix.meteorapp.com/#/signup"><button>Go to page</button></a>
 <br>
 
@@ -68,7 +68,7 @@
 
 <h3 id="addFoodPage">Add Food Page</h3>
 <img style="width: 70%" src="doc/hf_add_food.png">
-<p>All users with an account can add a new food item to the database. Available information the user can add about that food is name, image by URL, restaurant and its hours, the magnitude of its price, and a brief description. Users can also add new restaurants if they aren't available.</p>
+<p>All users with an account can add a new food item to the database. Available information the user can add about that food is name, image by URL, restaurant and its hours, price, and a brief description. Users can also add new restaurants if they aren't available.</p>
 <a href="http://hangryfix.meteorapp.com/#/addFood"><button>Go to page</button></a>
 <br>
 
