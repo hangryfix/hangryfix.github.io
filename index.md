@@ -55,20 +55,20 @@
 
 <h3 id="userHomePage">Your Account Page</h3>
 <img style="width: 70%" src="doc/hf_your_account.png">
-<p>Users have a personalized page that contains their foods marked by tags they favorited and foods that have been recently added to the app. Users have a personalized page that contains user specific data.
+<p>Users have a personalized page with 3 tabs for easy food finding.  The first tab shows new foods associated with the tags they "favorited."  The second tab shows the 9 newest foods recently added to the hangryFIX site.  And the third tab shows them all their previous reviews so they can easily find those foods again and edit their reviews if they need to.
 </p>
 <a href="http://hangryfix.meteorapp.com/#/yourAccount"><button>Go to page</button></a>
 <br>
 
 <h3 id="searchPage">Search Page</h3>
 <img style="width: 70%" src="doc/hf_search.png">
-<p>The search page is one of the most important pages in the application.  From here, users can find foods that have been added to the app based on their food categories. </p>
+<p>The search page is one of the most important pages in the application.  From here, users can find foods that have been added to the app based on their food categories. They can filter foods by what is most important to them, rating, price, etc.</p>
 <a href="http://hangryfix.meteorapp.com/#/search"><button>Go to page</button></a>
 <br>
 
 <h3 id="addFoodPage">Add Food Page</h3>
 <img style="width: 70%" src="doc/hf_add_food.png">
-<p>All users with an account can add a new food item to the database. Available information the user can add about that food is name, image by URL, restaurant and its hours, price, and a brief description. Users can also add new restaurants if they aren't available.</p>
+<p>All users with an account can add a new food item to the database. Available information the user can add about that food is name, image by URL, restaurant and its hours, price, and a brief description. Users can also add new restaurants here if they aren't available.</p>
 <a href="http://hangryfix.meteorapp.com/#/addFood"><button>Go to page</button></a>
 <br>
 
@@ -151,7 +151,7 @@ Milestone 2 consisted of 13 issues, each of which were implemented in their own 
 <hr>
 
 <h2 id="developmentHistory">Community Feedback</h2>
-We tested our app with 5 members of the UH community and here are there responses to some of the questions:
+We tested our app with 5 members of the UH community and here are the responses to some of the questions:
 
 
 <hr>
