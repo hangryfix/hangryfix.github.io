@@ -158,12 +158,12 @@ We took 5 members of the UH community and asked them to make accounts to test ou
 *All respondents said they would use the app a few times a week to a few times a month and most of them said the app has the potential to alleviate hangriness on our campus.*
 
 <br>
-<img style="width: 50%" src="doc/pros.png">
-<img style="width: 50%" src="doc/cons.png">
+<img style="width: 100%" src="doc/pros.png">
+<img style="width: 100%" src="doc/cons.png">
 <br>
 *Here are some of the pros and cons listed by our community members.*
 <br>
-<img style="width: 70%" src="doc/overall.png">
+<img style="width: 100%" src="doc/overall.png">
 
 
 <hr>
