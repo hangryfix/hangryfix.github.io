@@ -42,8 +42,9 @@
 <br>
 
 <h3 id="signinPage">Signin & Register Pages</h3>
-<img style="width: 50%" src="doc/hf_signin.png">
-<img style="width: 50%" src="doc/hf_register.png">
+<img style="width: 45%" src="doc/hf_register.png">
+<img style="width: 45%" src="doc/hf_signin.png">
+
 <p>Before users can add foods or leave reviews, they must create an account.  They can add tags associated with their favorite foods to help customize their account page.</p>
 <a href="http://hangryfix.meteorapp.com/#/signup"><button>Go to page</button></a>
 <br>
