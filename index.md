@@ -12,7 +12,8 @@
 - <a href="#developmentHistory">Development History</a>
   - <a href="#milestone1">Milestone 1: Mockup development</a>
   - <a href="#milestone2">Milestone 2: Functionality</a>
-  - <a href="#milestone3">Milestone 3: Improved functionality</a> 
+  - <a href="#milestone3">Milestone 3: Improved functionality</a>
+- <a href="#community">Community Feedback</a> 
 - <a href="#theAuthors">The Authors</a>
 
 
@@ -75,7 +76,6 @@
 <img style="width: 50%" src="doc/hf_edit_review.png">
 <img style="width: 50%" src="doc/hf_reviews.png">
 <p>Users can add a review for a food item they have eaten before if that has already been added to the database. (Otherwise they need to first add the food).  They can also go back and edit that review at anytime.</p>
-<a href="http://hangryfix.meteorapp.com/#/addReview"><button>Go to page</button></a>
 
 <h3 id="adminPage">Admin Page</h3>
 <img style="width: 70%" src="doc/hf_admin.png">
@@ -149,7 +149,7 @@ Milestone 2 consisted of 13 issues, each of which were implemented in their own 
 
 <hr>
 
-<h2 id="developmentHistory">Community Feedback</h2>
+<h2 id="community">Community Feedback</h2>
 We took 5 members of the UH community and asked them to make accounts to test out the prototype of our app.  Overall we got fairly positive responses.  Here are some screenshots of the anonymous post survey we gave them.
 <br>
 <img style="width: 45%" src="doc/usage.png">
