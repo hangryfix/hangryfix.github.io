@@ -164,7 +164,7 @@ We took 5 members of the UH community and asked them to make accounts to test ou
 <br>
 *Here are some of the pros and cons listed by our community members.*
 <br>
-<img style="width: 45%" src="doc/overall.png">
+<img style="width: 60%" src="doc/overall.png">
 
 
 <hr>
