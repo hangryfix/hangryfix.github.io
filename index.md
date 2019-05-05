@@ -164,6 +164,7 @@ We took 5 members of the UH community and asked them to make accounts to test ou
 <br>
 
 <br>
+*Overall, people seemed to like the app.*
 <img style="width: 100%" src="doc/overall.png">
 
 
