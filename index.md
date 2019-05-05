@@ -152,16 +152,17 @@ Milestone 2 consisted of 13 issues, each of which were implemented in their own 
 <h2 id="community">Community Feedback</h2>
 We took 5 members of the UH community and asked them to make accounts to test out the prototype of our app.  Overall we got fairly positive responses.  Here are some screenshots of the anonymous post survey we gave them.
 <br>
-<img style="width: 45%" src="doc/usage.png">
-<img style="width: 45%" src="doc/potential.png">
+<img style="width: 49%" src="doc/usage.png">
+<img style="width: 49%" src="doc/potential.png">
 <br>
 *All respondents said they would use the app a few times a week to a few times a month and most of them said the app has the potential to alleviate hangriness on our campus.*
 
 <br>
+*Here are some of the pros and cons listed by our community members.*
 <img style="width: 100%" src="doc/pros.png">
 <img style="width: 100%" src="doc/cons.png">
 <br>
-*Here are some of the pros and cons listed by our community members.*
+
 <br>
 <img style="width: 100%" src="doc/overall.png">
 
