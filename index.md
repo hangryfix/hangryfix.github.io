@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="../style.css">
+
 <h2>Table of Contents</h2>
 - <a href="#overview">Overview</a>
 - <a href="#theApp">The App</a>
@@ -25,7 +27,7 @@
 <p>There are many restaurant review sites (i.e. Yelp), but students often crave a specific food item rather than a genre or restaurant.</p> 
 <p>hangryFIX is a way for UHM students to publicize, rate, and search for specific food items. Ratings will revolve around food items rather than overall restaurant quality, service, etc.</p>
 <div>
-<a href="http://hangryfix.meteorapp.com/#/"><button>Go to App</button></a>
+<a href="http://hangryfix.meteorapp.com/#/"><button class="overview_app_button">Go to App</button></a>
 <a href="https://github.com/hangryfix/hangryfix/projects"><button>Go to Project Board</button></a>
 <a href="https://github.com/hangryfix/hangryfix"><button>Go to Source Code</button></a>
 </div>
