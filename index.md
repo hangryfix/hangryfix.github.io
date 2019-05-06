@@ -24,7 +24,6 @@
 <img style="width: 80%" src="doc/hf-landing2.png">
 <p>There are many restaurant review sites (i.e. Yelp), but students often crave a specific food item rather than a genre or restaurant.</p> 
 <p>hangryFIX is a way for UHM students to publicize, rate, and search for specific food items. Ratings will revolve around food items rather than overall restaurant quality, service, etc.</p>
-<p>Users can also allow email and SMS notifications on their account on new locations for selected foods.</p>
 <div>
 <a href="http://hangryfix.meteorapp.com/#/"><button>Go to App</button></a>
 <a href="https://github.com/hangryfix/hangryfix/projects"><button>Go to Project Board</button></a>
@@ -38,7 +37,7 @@
 
 <h3 id="landingPage">Landing Page</h3>
 <img style="width: 80%" src="doc/hf-landing.png">
-<p>The landing page will displays recent food items and their ratings, and it will also explain the purpose and mission of the site.  To prevent hangryness. From here, users can use the Nav Bar to log in, register, and do a quick search of the foods by category.</p>
+<p>The landing page displays the three most recent food items along with their reviews along the purpose and goal--essentially, to prevent hangryness--of this application. Through the navigation bar, users can log in to their accounts and register for one. Any visitor to the site can start searching for foods from the landing page by clicking on the respective icon for a food category they're currently hangry for.</p>
 <a href="http://hangryfix.meteorapp.com/#/"><button>Go to page</button></a>
 <br>
 
@@ -46,36 +45,36 @@
 <img style="width: 45%" src="doc/hf_register.png">
 <img style="width: 45%" src="doc/hf_signin.png">
 
-<p>Before users can add foods or leave reviews, they must create an account.  They can add tags associated with their favorite foods to help customize their account page.</p>
-<p>After that, users will need just their email address and password to sign in to their accounts.</p>
+<p>Before users can add foods, leave reviews, and "bookmark" certain foods, they are required to sign in to their accounts or to register for a new one. During registration, they can add tags associated with their favorite foods to help customize their account page. After that, users will need just their email address and password to sign in to their accounts.</p>
 <a href="http://hangryfix.meteorapp.com/#/signup"><button>Go to Register page</button></a>     
 <a href="http://hangryfix.meteorapp.com/#/signin"><button>Go to Signin page</button></a>
 <br>
 
 
 <h3 id="userHomePage">Your Account Page</h3>
-<img style="width: 70%" src="doc/hf_your_account.png">
-<p>Users have a personalized page with 3 tabs for easy food finding.  The first tab shows new foods associated with the tags they "favorited."  The second tab shows the 9 newest foods recently added to the hangryFIX site.  And the third tab shows them all their previous reviews so they can easily find those foods again and edit their reviews if they need to.
+<img style="width: 70%" src="doc/hf_your_account_tags.png">
+<img style="width: 70%" src="doc/hf_your_account_reviews.png">
+<p>Users have a personalized page with 3 tabs for easy food finding. The first tab shows the 9 newest foods recently added to the hangryFIX site. The second tab shows new foods associated with the tags they "favorited." And the third tab shows them all their previous reviews so they can easily find those foods again and edit their reviews if they need to.
 </p>
 <a href="http://hangryfix.meteorapp.com/#/yourAccount"><button>Go to page</button></a>
 <br>
 
 <h3 id="searchPage">Search Page</h3>
 <img style="width: 70%" src="doc/hf_search.png">
-<p>The search page is one of the most important pages in the application.  From here, users can find foods that have been added to the app based on their food categories. They can filter foods by what is most important to them, rating, price, etc.</p>
+<p>The search page is one of the most important pages in the application. This page is accessible through the icons provided for each food category on the landing page and through the navigation bar. From here, users can find foods that have been added to the app based on their food categories. They can filter foods by what is most important to them with the options of by rating, price range, and currently open restaurants.</p>
 <a href="http://hangryfix.meteorapp.com/#/search"><button>Go to page</button></a>
 <br>
 
 <h3 id="addFoodPage">Add Food Page</h3>
 <img style="width: 70%" src="doc/hf_add_food.png">
-<p>All users with an account can add a new food item to the database. Available information the user can add about that food is name, image by URL, restaurant and its hours, price, and a brief description. Users can also add new restaurants here if they aren't available.</p>
+<p>All users with an account can add a new food item to the database. Available information the user can add about that food is name, image by URL, restaurant and its hours, price, and a brief description. If no image URL is provided, the default image of the hangryFIX logo will be featured. Users can also add new restaurants here if they aren't available. In addition, admins are able to view which users added which foods across the site.</p>
 <a href="http://hangryfix.meteorapp.com/#/addFood"><button>Go to page</button></a>
 <br>
 
 <h3 id="addingEditingReviews">Adding/Editing Reviews</h3>
 <img style="width: 50%" src="doc/hf_edit_review.png">
 <img style="width: 50%" src="doc/hf_reviews.png">
-<p>Users can add a review for a food item they have eaten before if that has already been added to the database. (Otherwise they need to first add the food).  They can also go back and edit that review at anytime.</p>
+<p>Users can add a review for a food item they have eaten before if that has already been added to the database. (Otherwise they need to first add the food).  They can also go back and edit that review at anytime or delete the review. Like when adding foods, 1) if no image URL is provided, the default image of the hangryFIX logo will be featured in the review, and 2) admins are able to view which users wrote which reviews across the site.</p>
 
 <h3 id="adminPage">Admin Page</h3>
 <img style="width: 70%" src="doc/hf_admin.png">
