@@ -118,22 +118,7 @@ Milestone 1 consisted of 16 issues, each of which were implemented in their own 
 <a href="https://github.com/hangryfix/hangryfix/projects/1"><button>Go to M1 board</button></a>
 
 <h3 id="milestone2">Milestone 2: Functionality</h3>
-<p>This milestone started on April 18, 2019 and ended on April 25, 2019. The goal of Milestone 2 was to add the first sets of functionality to the pages and components. The major additions are the ability to add and edit reviews and to add foods.<br>
-<img style="width: 30%" src="doc/
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<p>This milestone started on April 18, 2019 and ended on April 25, 2019. The goal of Milestone 2 was to add the first sets of functionality to the pages and components. The major additions and primary focus of this app are the abilities to add, edit, and view reviews and to add and view foods. In addition, nearly all of the MongoDB schemas, such as for foods, users, and reviews, to be used in the app were created in this milestone. Work on creating default data such as foods, restaurants, and user accounts was also started.<br><br>
 Milestone 2 was implemented as hangryFIX GitHub Milestone M2:
 <br><br>
 <img style="width: 70%" src="doc/m2_issues.png">
