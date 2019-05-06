@@ -129,6 +129,23 @@ Milestone 2 consisted of 13 issues, each of which were implemented in their own 
 <a href="https://github.com/hangryfix/hangryfix/projects/2"><button>Go to M2 board</button></a>
 
 <h3 id="milestone3">Milestone 3: Improved Functionality</h3>
+<p>This milestone started on April 25, 2019 and ended on May 6, 2019. The goal of Milestone 3 was to continue and finish adding the functionality needed for this application. The major additions and/or changes made were working filters to the search page and the users' account pages, the feature for users to view all their reviews they made on their account pages, and icons for searching foods in each food category on the landing page. The building of the application wrapped up in this milestone with a few clean-ups of the overall layout of all the pages.<br><br>
+Milestone 3 was implemented as hangryFIX GitHub Milestone M3:
+<br><br>
+
+
+[insert screenshot "m3_issues" here]
+
+
+<br><br>
+Milestone 3 consisted of 13 issues, each of which were implemented in their own branches that were later merged into the master. Progress was managed via the hangryFIX GitHub Project M3:
+<br><br>
+
+
+[insert screenshot "m3_project" here]
+
+
+</p>
 <a href="https://github.com/hangryfix/hangryfix/projects/4"><button>Go to M3 board</button></a>
 
 <hr>
