@@ -1,5 +1,3 @@
-<link rel="stylesheet" href="./style.css">
-
 <h2>Table of Contents</h2>
 - <a href="#overview">Overview</a>
 - <a href="#theApp">The App</a>
