@@ -81,9 +81,11 @@
 <h3 id="adminPage">Admin Page</h3>
 <img style="width: 70%" src="doc/hf_admin.png">
 <p>Users with Admin rights are able to view all foods and users.  They can delete any foods they deem inappropriate and track what reviews and foods are being added by which users.</p>
-<a href="http://hangryfix.meteorapp.com/#/admin"><button>Go to page</button></a>
+
 <img style="width: 60%" src="doc/hf_admin2.png">
 <img style="width: 39%" src="doc/hf_admin2a.png">
+<br>
+<a href="http://hangryfix.meteorapp.com/#/admin"><button>Go to page</button></a>
 <br>
 
 <hr>
