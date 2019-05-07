@@ -46,7 +46,8 @@
 <img style="width: 45%" src="doc/hf_signin.png">
 
 <p>Before users can add foods, leave reviews, and "bookmark" certain foods, they are required to sign in to their accounts or to register for a new one. During registration, they can add tags associated with their favorite foods to help customize their account page. After that, users will need just their email address and password to sign in to their accounts.</p>
-<a href="http://hangryfix.meteorapp.com/#/signup"><button>Go to Register page</button></a>     
+<div>
+<a href="http://hangryfix.meteorapp.com/#/signup"><button>Go to Register page</button></a>    
 <a href="http://hangryfix.meteorapp.com/#/signin"><button>Go to Signin page</button></a>
 </div>
 <br>
