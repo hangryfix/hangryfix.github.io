@@ -1,3 +1,5 @@
 title: hangryFIX
 theme: jekyll-theme-midnight
 description: Ridding the world of hangriness since 2019
+plugins: 
+- jekyll-seo-tag
