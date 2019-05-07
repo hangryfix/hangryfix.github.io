@@ -137,14 +137,14 @@ Milestone 2 consisted of 13 issues, each of which were implemented in their own 
 Milestone 3 was implemented as hangryFIX GitHub Milestone M3:
 <br><br>
 
-<img style="width: 70%" src="doc/M3-issues.png">
+<img style="width: 70%" src="doc/m3-issues.png">
 
 <br><br>
 Milestone 3 consisted of 13 issues, each of which were implemented in their own branches that were later merged into the master. Progress was managed via the hangryFIX GitHub Project M3:
 <br><br>
 
 
-[insert screenshot "m3_project" here]
+<img style="width: 70%" src="doc/m3-project.png">
 
 
 </p>
