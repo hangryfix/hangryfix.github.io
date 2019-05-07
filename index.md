@@ -13,7 +13,7 @@
   - <a href="#milestone1">Milestone 1: Mockup development</a>
   - <a href="#milestone2">Milestone 2: Functionality</a>
   - <a href="#milestone3">Milestone 3: Improved functionality</a>
-- <a href="#community">Community Feedback</a> 
+- <a href="#community">Community Feedback</a>
 - <a href="#theAuthors">The Authors</a>
 
 
@@ -22,7 +22,7 @@
 
 <h2 id="overview">Overview</h2>
 <img style="width: 80%" src="doc/hf-landing2.png">
-<p>There are many restaurant review sites (i.e. Yelp), but students often crave a specific food item rather than a genre or restaurant.</p> 
+<p>There are many restaurant review sites (i.e. Yelp), but students often crave a specific food item rather than a genre or restaurant.</p>
 <p>hangryFIX is a way for UHM students to publicize, rate, and search for specific food items. Ratings will revolve around food items rather than overall restaurant quality, service, etc.</p>
 <div>
 <a href="http://hangryfix.meteorapp.com/#/"><button class="overview_app_button">Go to App</button></a>
@@ -30,7 +30,7 @@
 <a href="https://github.com/hangryfix/hangryfix"><button>Go to Source Code</button></a>
 </div>
 <br>
-   
+
 <hr>
 
 <h2 id="theApp">User Guide</h2>
@@ -46,8 +46,10 @@
 <img style="width: 45%" src="doc/hf_signin.png">
 
 <p>Before users can add foods, leave reviews, and "bookmark" certain foods, they are required to sign in to their accounts or to register for a new one. During registration, they can add tags associated with their favorite foods to help customize their account page. After that, users will need just their email address and password to sign in to their accounts.</p>
-<a href="http://hangryfix.meteorapp.com/#/signup"><button>Go to Register page</button></a>     
+<div>
+<a href="http://hangryfix.meteorapp.com/#/signup"><button>Go to Register page</button></a>    
 <a href="http://hangryfix.meteorapp.com/#/signin"><button>Go to Signin page</button></a>
+</div>
 <br>
 
 
@@ -80,6 +82,8 @@
 <img style="width: 70%" src="doc/hf_admin.png">
 <p>Users with Admin rights are able to view all foods and users.  They can delete any foods they deem inappropriate and track what reviews and foods are being added by which users.</p>
 <a href="http://hangryfix.meteorapp.com/#/admin"><button>Go to page</button></a>
+<img style="width: 60%" src="doc/hf_admin2.png">
+<img style="width: 39%" src="doc/hf_admin2a.png">
 <br>
 
 <hr>
@@ -104,7 +108,7 @@
 <img style="width: 30%" src="doc/mp_add_review.png">
 <img style="width: 30%" src="doc/mp_edit_review.png">
 <img style="width: 30%" src="doc/mp_search.jpg">
-<img style="width: 30%" src="doc/mp_your_account.jpg"> 
+<img style="width: 30%" src="doc/mp_your_account.jpg">
 <br><br>
 Milestone 1 was implemented as hangryFIX GitHub Milestone M1:
 <br><br>
@@ -133,9 +137,7 @@ Milestone 2 consisted of 13 issues, each of which were implemented in their own 
 Milestone 3 was implemented as hangryFIX GitHub Milestone M3:
 <br><br>
 
-
-[insert screenshot "m3_issues" here]
-
+<img style="width: 70%" src="doc/M3-issues.png">
 
 <br><br>
 Milestone 3 consisted of 13 issues, each of which were implemented in their own branches that were later merged into the master. Progress was managed via the hangryFIX GitHub Project M3:
@@ -179,4 +181,3 @@ We took 5 members of the UH community and asked them to make accounts to test ou
 <br>
 <a href="https://katrinaturner.github.io">Katrina Johnson Turner</a>
 </p>
-
