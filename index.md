@@ -48,8 +48,10 @@
 
 <p>Before users can add foods or leave reviews, they must create an account.  They can add tags associated with their favorite foods to help customize their account page.</p>
 <p>After that, users will need just their email address and password to sign in to their accounts.</p>
-<a href="http://hangryfix.meteorapp.com/#/signup"><button>Go to Register page</button></a>     
+<div>
+<a href="http://hangryfix.meteorapp.com/#/signup"><button>Go to Register page</button></a>    
 <a href="http://hangryfix.meteorapp.com/#/signin"><button>Go to Signin page</button></a>
+</div>
 <br>
 
 
